@@ -10,3 +10,13 @@
 8. [AIAC 07](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%207.docx) : Error Debugging with AI: Systematic approaches to finding and fixing bugs
 9. [AIAC 08](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.docx) : Test-Driven Development with AI – Generating and Working with Test Cases
 10. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) : Test-Driven Development with AI – Generating and Working with Test Cases
+11. [AIAC 9](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%209.docx) :Documentation Generation: Automatic documentation and code comments
+12. [AIAC 9.5](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%209.5.docx) :Documentation Generation: Automatic documentation and code comments
+13. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+14. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+15. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+16. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+17. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+18. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+19. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+20. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
