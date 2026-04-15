@@ -1,4 +1,4 @@
-# ADM -- 2026 - 2303a51019 -- Srijith Rao
+# AIAC -- 2026 - 2303a51019 -- Srijith Rao
 #AIAC Lab Jupyter Notebooks
 1. [AIAC 01](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%201.docx) : Environment Setup – GitHub Copilot and VS Code Integration + Understanding AI-assisted Coding Workflow
 2. [AIAC 02](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%202.docx) :  Exploring Additional AI Coding Tools beyond Copilot – Gemini (Colab) and Cursor AI
@@ -12,11 +12,13 @@
 10. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) : Test-Driven Development with AI – Generating and Working with Test Cases
 11. [AIAC 9](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%209.docx) :Documentation Generation: Automatic documentation and code comments
 12. [AIAC 9.5](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%209.5.docx) :Documentation Generation: Automatic documentation and code comments
-13. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-14. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-15. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-16. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-17. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-18. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-19. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
-20. [AIAC 8.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%208.1.docx) :
+13. [AIAC 10.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2010.1.docx) :Code Review and Quality: Using AI to improve code quality and readability
+14. [AIAC 11.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2011.1.docx) :Data Structures with AI: Implementing fundamental structures
+15. [AIAC 12.5](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2012.5.docx) :Algorithms with AI Assistance: Sorting, searching, and optimizing algorithms
+16. [AIAC 13](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2013.docx) :Code Refactoring: Improving legacy code with AI suggestions
+17. [AIAC 14.5](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2014.5.docx) :Web Frontend Development: AI-assisted HTML/CSS/JS generation
+18. [AIAC 16.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2016.1.docx) :Database Design and Queries: Schema design and SQL generation
+19. [AIAC 17.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2017.1.docx) :AI for Data Processing: Data cleaning and preprocessing scripts
+20. [AIAC 18.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2018.1.docx) :API Integration: Connecting to external services with error handling
+21. [AIAC 19.1](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2019.1.docx) :Code Translation: Converting between programming languages
+22. [AIAC 20.5](https://github.com/2303a51019/AIAC_LAB/blob/main/AIAC%20LAB%2020.5.docx) :Security Testing: Identifying vulnerabilities in AI-generated code
